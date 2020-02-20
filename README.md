@@ -12,9 +12,9 @@
 ## 3.Transfer Learning & Fine Tuning 
 * Transfer Learning 개요
 * CNN Best 모델 활용 Transfer Learning 구현 실습
-  ** 소규모 데이터 셋에서 처음부터 CNN 모델 구축하기
-  ** 사전 훈련된 CNN 모델에 Transfer Learning 적용하기
-  ** 사전 훈련된 CNN 모델에 Fine Tuning 적용하기
+  <br>소규모 데이터 셋에서 처음부터 CNN 모델 구축하기
+  <br>사전 훈련된 CNN 모델에 Transfer Learning 적용하기
+  <br>사전 훈련된 CNN 모델에 Fine Tuning 적용하기
 ## 4.임베딩 시스템을 위한 Optimization Model 
 * MobileNet 아키텍처 분석
 * Post Training Optimization 논문 분석
